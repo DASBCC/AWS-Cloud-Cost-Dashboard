@@ -1,4 +1,4 @@
-# Cloud-Cost-Optimization-Dashboard
+# AWS-Cloud-Cost-Dashboard
 
 Cloud cost optimization dashboard is a tool that helps you to monitor and optimize your cloud costs. It provides a dashboard that shows the cost of your cloud resources and helps you to identify the resources that are costing you the most money. 
 
